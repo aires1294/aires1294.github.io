@@ -1,31 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #e8f9fd;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+}
 
-     *{
-      margin: 0;
-      padding: 0;
-    }
-     body {
-        background-color: #E8F9FD;
-        font-size: 20px;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        color: black;
+#amor {
+  color: green;
+}
 
-      }
+#list-style {
+  font-style: italic;
+  line-height: 30px;
+}
 
-     
+p {
+  line-height: 30px;
+}
 
-      #amor{
-        color: green;
-        
-      }
+.imagem-redonda {
+  /* border-radius: 50% 10% 25% 5%; */
+  border-radius: 50%;
+}
 
-      #list-style{
-        font-style: italic;
-        line-height: 30px;
-       
-      }
-
-      p{
-        line-height: 30px;
-      }
-
-     
+.inicio {
+  background-image: url(wall.jpg);
+  background-size: cover;
+}
