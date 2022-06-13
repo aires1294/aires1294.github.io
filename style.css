@@ -1,9 +1,6 @@
-* {
-  margin: 0;
-  padding: 0;
-}
+
 body {
-  background-color: #e8f9fd;
+  background: linear-gradient(68.15deg, #DF7861 16.62%, #ECB390 85.61%);
   font-size: 20px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: black;
@@ -27,7 +24,14 @@ p {
   border-radius: 50%;
 }
 
-.inicio {
+/*.inicio {
   background-image: url(wall.jpg);
   background-size: cover;
+}*/
+
+li:hover {
+  background-color: black;
+  padding: 10px;
+  
 }
+
