@@ -29,7 +29,7 @@ p {
   background-size: cover;
 }*/
 
-li:hover {
+#list-style2 > li:hover {
   background-color: black;
   padding: 10px;
   
