@@ -1,3 +1,9 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}*/
 
 body {
   background: linear-gradient(68.15deg, #DF7861 16.62%, #ECB390 85.61%);
@@ -6,11 +12,11 @@ body {
   color: black;
 }
 
-#amor {
+.amor {
   color: green;
 }
 
-#list-style {
+.list-style {
   font-style: italic;
   line-height: 30px;
 }
@@ -29,7 +35,7 @@ p {
   background-size: cover;
 }*/
 
-#list-style2 > li:hover {
+.list-style2 > li:hover {
   background-color: black;
   padding: 10px;
   
